@@ -1,5 +1,7 @@
 # dsh-import-workbuddy
 
+[English](README.en.md) | 中文
+
 ~~因为workbuddy的deepseek白嫖即将结束~~
 
 把 WorkBuddy 的对话导入 DSH。导进来能看历史，也能接着聊。
