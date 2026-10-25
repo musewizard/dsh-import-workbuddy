@@ -24,7 +24,7 @@ dsh plugin --profile web add .
 从 git 装：
 
 ```sh
-dsh plugin --profile web add github:<owner>/dsh-import-workbuddy
+dsh plugin --profile web add github:musewizard/dsh-import-workbuddy
 ```
 
 装完重启 `dsh web`，然后刷新页面。旧页面的连接已经断了。

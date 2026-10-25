@@ -37,6 +37,14 @@
   },
   "author": "dsh-import-workbuddy contributors",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musewizard/dsh-import-workbuddy.git"
+  },
+  "homepage": "https://github.com/musewizard/dsh-import-workbuddy#readme",
+  "bugs": {
+    "url": "https://github.com/musewizard/dsh-import-workbuddy/issues"
+  },
   "peerDependencies": {
     "@deepseek-ai/cordis": "*",
     "@deepseek-ai/dsh-commands": "*",
