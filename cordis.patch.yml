@@ -1,0 +1,11 @@
+# dsh-import-workbuddy — 当 profile 列出本包时应用的 bundle 层。
+#
+# 插入插件行，注册以下斜杠命令：
+#   /import-workbuddy   把 WorkBuddy / CodeBuddy 会话导入为 dsh 原生会话
+#   /workbuddy-list     列出可导入的会话（不写入）
+#
+# 覆盖默认配置示例：
+#   config: { toolTruncate: 4000, attachWorkspaces: false }
+- insert:
+    - id: import-workbuddy
+      name: dsh-import-workbuddy
